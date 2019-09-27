@@ -7,3 +7,4 @@ In the requirements.txt file are collected all libraries of my python environmen
 - **Building a Deep Neural Network-Step by Step**: A tutorial on building a Neural Network model from scratch with numpy
 - **Deep Neural Network Application: Image Classification**: Applying the model created with numpy to a binary classification problem.
 - **TensorFlow tutorial**: A tutorial on basic usage of the TensorFlow framework and with a practical example on creating a model for recognizing hands signs numbers from pictures.
+- **Building a CNN-Step by Step**: A tutorial on how to build a Convolutional Neural Network for both forward and backward propagation using only numpy.
