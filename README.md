@@ -9,3 +9,4 @@ In the requirements.txt file are collected all libraries of my python environmen
 - **TensorFlow tutorial**: A tutorial on basic usage of the TensorFlow framework and with a practical example on creating a model for recognizing hands signs numbers from pictures.
 - **Building a CNN-Step by Step**: a tutorial on how to build a Convolutional Neural Network for both forward and backward propagation using only numpy.
 - **CNN with TensorFlow**: a tutorial on how to build a Convolutional Neural Network model with Tensorflow that recognizes SIGN language.
+- **Keras-Tutorial**: building a simple CNN model with keras
