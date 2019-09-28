@@ -11,3 +11,4 @@ In the requirements.txt file are collected all libraries of my python environmen
 - **CNN with TensorFlow**: a tutorial on how to build a Convolutional Neural Network model with Tensorflow that recognizes SIGN language.
 - **Keras-Tutorial**: building a simple CNN model with keras
 - **Building ResNet**: In this notebook it is shown how to build a ResNet CNN model step-by-step using keras
+- **Car detection for Autonomous Driving** In this notebook there is a detailed guide on how object detection with YOLO works. I used afterwards a pretrained version of YOLO_v2 model for car detection.
