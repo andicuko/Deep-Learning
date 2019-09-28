@@ -10,4 +10,4 @@ In the requirements.txt file are collected all libraries of my python environmen
 - **Building a CNN-Step by Step**: a tutorial on how to build a Convolutional Neural Network for both forward and backward propagation using only numpy.
 - **CNN with TensorFlow**: a tutorial on how to build a Convolutional Neural Network model with Tensorflow that recognizes SIGN language.
 - **Keras-Tutorial**: building a simple CNN model with keras
-- **Building ResNet**: In this notebook it is shown how to build a ResNet CNN network step-by-step using keras
+- **Building ResNet**: In this notebook it is shown how to build a ResNet CNN model step-by-step using keras
