@@ -19,4 +19,5 @@ In the requirements.txt file are collected all libraries of my python environmen
 - **08-Car-detection-for-Autonomous-Driving** In this notebook there is a detailed guide on how object detection works with YOLO. I then used a pretrained version of YOLO_v2 model for car detection.
 - **09-Face-Recognition** In this notebook I have developed both a face verification and a face recognition model and applied it to the "Happy house" problem
 - **10-Art-Generation-Neural-Style-Transfer** Step-by-step guide on how to generate images with the artistic style of your prefered painter using Neural-Style-Transfer. 
-
+- **11-Building-a-Recurrent-Neural-Network-Step-by-Step**: a tutorial on building the forwards propagation of a Recurrent Neural Network with only numpy.
+- **12-Jazz-improvisation-with-LSTM**: example on how to generate Jazz music with LSTM
