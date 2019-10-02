@@ -21,3 +21,4 @@ In the requirements.txt file are collected all libraries of my python environmen
 - **10-Art-Generation-Neural-Style-Transfer** Step-by-step guide on how to generate images with the artistic style of your prefered painter using Neural-Style-Transfer. 
 - **11-Building-a-Recurrent-Neural-Network-Step-by-Step**: a tutorial on building the forwards propagation of a Recurrent Neural Network with only numpy.
 - **12-Jazz-improvisation-with-LSTM**: example on how to generate Jazz music with LSTM
+- **13-Word-Vectors-and-Gender-bias-correction**: this notebook shows how use word vectors obtained from pretrained models on huge text corpus. Moreover, it is also included a section on how to correct for gender bias. 
